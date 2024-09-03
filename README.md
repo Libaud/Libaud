@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Je pratique l'informatique et plus particulièrement le développement depuis le début des années 80.
+Je travail dans la filière dite du numérique depuis le début des années 90. Où j'ai notamment participé à de très nombreux projets de toutes dimensions dans de très nombreux domaines fonctionnels.
