@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Je pratique l'informatique et plus particulièrement le développement depuis le début des années 80.
-Je travail dans la filière dite du numérique depuis le début des années 90. Où j'ai notamment participé à de très nombreux projets de toutes dimensions dans de très nombreux domaines fonctionnels.
+Je travaille dans la filière dite du numérique depuis le début des années 90. Où j'ai notamment participé à de très nombreux projets de toutes dimensions dans de très nombreux domaines fonctionnels.
+Aujourd'hui, je suis le fondateur et dirigeant d'une ESN (Entreprise de Services Numériques) française, dont l'activité est essentiellement centrée sur les petites structures et les particuliers. L'entreprise propose des services, notamment d'assistance de proximité. L'entreprise développe également une activité dans le logiciel.
+
+Toutefois je pratique toujours le développement. En Pascal Objet, sur :
+- Delphi ;
+- Lazarus ;
+- Typhon.
