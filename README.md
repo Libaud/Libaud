@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-In English:
+In English:<br/>
 I have been working in computer science and more particularly development since the early 1980s. I have been working in the so-called digital sector since the early 1990s. Where I have participated in many projects of all dimensions in many functional areas. Today, I am the founder and manager of a French ESN (Digital Services Company), whose activity is mainly focused on small structures and individuals. The company offers services, including local support. The company also develops a software business.
 
 However, I still practice development. In Pascal Objet, on:
@@ -22,7 +22,7 @@ However, I still practice development. In Pascal Objet, on:
 - Lazarus ;
 - Typhon.
 
-In French:
+In French:<br/>
 Je pratique l'informatique et plus particulièrement le développement depuis le début des années 80.
 Je travaille dans la filière dite du numérique depuis le début des années 90. Où j'ai notamment participé à de très nombreux projets de toutes dimensions dans de très nombreux domaines fonctionnels.
 Aujourd'hui, je suis le fondateur et dirigeant d'une ESN (Entreprise de Services Numériques) française, dont l'activité est essentiellement centrée sur les petites structures et les particuliers. L'entreprise propose des services, notamment d'assistance de proximité. L'entreprise développe également une activité dans le logiciel.
